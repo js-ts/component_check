@@ -824,7 +824,7 @@ implementation:
       Serve a model with KServe:
         componentRef:
           digest: 307a23ef97a6445560fffb87dc31cf3f8d146400a4af03613999e3cdd2f905e9
-          url: https://raw.githubusercontent.com/markwinter/pipelines/kserve-component/components/kserve/component.yaml
+          url: https://raw.githubusercontent.com/kubeflow/pipelines/master/components/kserve/component.yaml
         annotations:
           editor.position: '{"x":60,"y":620,"width":180,"height":40}'
         arguments:
